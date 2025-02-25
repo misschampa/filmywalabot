@@ -107,7 +107,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/Movieupdatewithak'><b> {file_name}</b></a>\n\n<b>If You Are Facing Any Sound Issue Then use a VLC Media Player @Movieupdatewithak0</b>"""
+    FILE_CAPTION = """<a href='https://t.me/Movieupdatewithak0'><b> {file_name}</b></a>\n\n<b>If You Are Facing Any Sound Issue Then use a VLC Media Player @Movieupdatewithak0</b>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
